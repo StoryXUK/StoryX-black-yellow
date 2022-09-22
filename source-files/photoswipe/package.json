@@ -2,7 +2,7 @@
   "_args": [
     [
       "photoswipe@4.1.3",
-      "C:\\Users\\Natalia\\Documents\\template-allurio\\frontendSale"
+      "C:\\Users\\Natalia\\Documents\\oomph-update\\frontend-v3-sale"
     ]
   ],
   "_development": true,
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/photoswipe/-/photoswipe-4.1.3.tgz",
   "_spec": "4.1.3",
-  "_where": "C:\\Users\\Natalia\\Documents\\template-allurio\\frontendSale",
+  "_where": "C:\\Users\\Natalia\\Documents\\oomph-update\\frontend-v3-sale",
   "author": {
     "name": "Dmitry Semenov",
     "url": "http://dimsemenov.com"

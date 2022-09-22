@@ -2,7 +2,7 @@
   "_args": [
     [
       "respond.js@1.4.2",
-      "C:\\Users\\Natalia\\Documents\\template-allurio\\frontendSale"
+      "C:\\Users\\Natalia\\Documents\\oomph-update\\frontend-v3-sale"
     ]
   ],
   "_development": true,
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/respond.js/-/respond.js-1.4.2.tgz",
   "_spec": "1.4.2",
-  "_where": "C:\\Users\\Natalia\\Documents\\template-allurio\\frontendSale",
+  "_where": "C:\\Users\\Natalia\\Documents\\oomph-update\\frontend-v3-sale",
   "author": {
     "name": "Scott Jehl",
     "email": "scott@filamentgroup.com",

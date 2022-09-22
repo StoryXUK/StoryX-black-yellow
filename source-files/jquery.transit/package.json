@@ -2,7 +2,7 @@
   "_args": [
     [
       "jquery.transit@0.9.12",
-      "C:\\Users\\Natalia\\Documents\\template-allurio\\frontendSale"
+      "C:\\Users\\Natalia\\Documents\\oomph-update\\frontend-v3-sale"
     ]
   ],
   "_development": true,
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/jquery.transit/-/jquery.transit-0.9.12.tgz",
   "_spec": "0.9.12",
-  "_where": "C:\\Users\\Natalia\\Documents\\template-allurio\\frontendSale",
+  "_where": "C:\\Users\\Natalia\\Documents\\oomph-update\\frontend-v3-sale",
   "author": {
     "name": "Rico Sta. Cruz",
     "email": "hi@ricostacruz.com"

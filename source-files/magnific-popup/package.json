@@ -2,7 +2,7 @@
   "_args": [
     [
       "magnific-popup@1.1.0",
-      "C:\\Users\\Natalia\\Documents\\template-allurio\\frontendSale"
+      "C:\\Users\\Natalia\\Documents\\oomph-update\\frontend-v3-sale"
     ]
   ],
   "_development": true,
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/magnific-popup/-/magnific-popup-1.1.0.tgz",
   "_spec": "1.1.0",
-  "_where": "C:\\Users\\Natalia\\Documents\\template-allurio\\frontendSale",
+  "_where": "C:\\Users\\Natalia\\Documents\\oomph-update\\frontend-v3-sale",
   "author": {
     "name": "Dmitry Semenov",
     "email": "diiiimaaaa@gmail.com",

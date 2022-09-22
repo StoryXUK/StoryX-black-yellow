@@ -2,7 +2,7 @@
   "_args": [
     [
       "vegas@2.5.4",
-      "C:\\Users\\Natalia\\Documents\\template-allurio\\frontendSale"
+      "C:\\Users\\Natalia\\Documents\\oomph-update\\frontend-v3-sale"
     ]
   ],
   "_development": true,
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/vegas/-/vegas-2.5.4.tgz",
   "_spec": "2.5.4",
-  "_where": "C:\\Users\\Natalia\\Documents\\template-allurio\\frontendSale",
+  "_where": "C:\\Users\\Natalia\\Documents\\oomph-update\\frontend-v3-sale",
   "author": {
     "name": "Jay Salvat"
   },

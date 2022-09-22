@@ -2,7 +2,7 @@
   "_args": [
     [
       "jquery@3.6.0",
-      "C:\\Users\\Natalia\\Documents\\template-allurio\\frontendSale"
+      "C:\\Users\\Natalia\\Documents\\oomph-update\\frontend-v3-sale"
     ]
   ],
   "_development": true,
@@ -23,13 +23,11 @@
     "fetchSpec": "3.6.0"
   },
   "_requiredBy": [
-    "#DEV:/",
-    "/letteringjs",
-    "/textillate"
+    "#DEV:/"
   ],
   "_resolved": "https://registry.npmjs.org/jquery/-/jquery-3.6.0.tgz",
   "_spec": "3.6.0",
-  "_where": "C:\\Users\\Natalia\\Documents\\template-allurio\\frontendSale",
+  "_where": "C:\\Users\\Natalia\\Documents\\oomph-update\\frontend-v3-sale",
   "author": {
     "name": "OpenJS Foundation and other contributors",
     "url": "https://github.com/jquery/jquery/blob/3.6.0/AUTHORS.txt"
