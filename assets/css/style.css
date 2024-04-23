@@ -1224,12 +1224,12 @@ video {
 
 .bg-primary {
   --tw-bg-opacity: 1;
-  background-color: rgb(255 182 70/var(--tw-bg-opacity));
+  background-color: rgb(252 212 102/var(--tw-bg-opacity));
 }
 
 .bg-secondary {
   --tw-bg-opacity: 1;
-  background-color: rgb(255 233 217/var(--tw-bg-opacity));
+  background-color: rgb(220 220 220/var(--tw-bg-opacity));
 }
 
 .bg-white {
@@ -1613,12 +1613,12 @@ video {
 
 .text-primary {
   --tw-text-opacity: 1;
-  color: rgb(255 182 70/var(--tw-text-opacity));
+  color: rgb(252 212 102/var(--tw-text-opacity));
 }
 
 .text-secondary {
   --tw-text-opacity: 1;
-  color: rgb(255 233 217/var(--tw-text-opacity));
+  color: rgb(215 215 215/var(--tw-text-opacity));
 }
 
 .text-white {
@@ -2092,7 +2092,7 @@ a {
 .before\:bg-primary::before {
   content: var(--tw-content);
   --tw-bg-opacity: 1;
-  background-color: rgb(255 182 70/var(--tw-bg-opacity));
+  background-color: rgb(252 212 102/var(--tw-bg-opacity));
 }
 
 .before\:bg-white::before {
@@ -2139,7 +2139,7 @@ a {
 
 .hover\:bg-primary:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(255 182 70/var(--tw-bg-opacity));
+  background-color: rgb(252 212 102/var(--tw-bg-opacity));
 }
 
 .hover\:bg-white:hover {
@@ -2154,7 +2154,7 @@ a {
 
 .hover\:text-primary:hover {
   --tw-text-opacity: 1;
-  color: rgb(255 182 70/var(--tw-text-opacity));
+  color: rgb(252 212 102/var(--tw-text-opacity));
 }
 
 .hover\:text-white:hover {
@@ -2171,7 +2171,7 @@ a {
 .hover\:before\:bg-primary:hover::before {
   content: var(--tw-content);
   --tw-bg-opacity: 1;
-  background-color: rgb(255 182 70/var(--tw-bg-opacity));
+  background-color: rgb(252 212 102/var(--tw-bg-opacity));
 }
 
 .hover\:before\:opacity-80:hover::before {
