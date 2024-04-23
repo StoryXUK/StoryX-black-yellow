@@ -1229,7 +1229,7 @@ video {
 
 .bg-secondary {
   --tw-bg-opacity: 1;
-  background-color: rgb(220 220 220/var(--tw-bg-opacity));
+  background-color: rgb(233 233 233/var(--tw-bg-opacity));
 }
 
 .bg-white {
@@ -1608,7 +1608,7 @@ video {
 
 .text-orange {
   --tw-text-opacity: 1;
-  color: rgb(255 147 48/var(--tw-text-opacity));
+  color: rgb(252 212 102/var(--tw-text-opacity));
 }
 
 .text-primary {
@@ -2086,7 +2086,7 @@ a {
 .before\:bg-orange::before {
   content: var(--tw-content);
   --tw-bg-opacity: 1;
-  background-color: rgb(255 147 48/var(--tw-bg-opacity));
+  background-color: rgb(252 212 102/var(--tw-bg-opacity));
 }
 
 .before\:bg-primary::before {
@@ -2149,7 +2149,7 @@ a {
 
 .hover\:text-orange:hover {
   --tw-text-opacity: 1;
-  color: rgb(255 147 48/var(--tw-text-opacity));
+  color: rgb(252 212 102/var(--tw-text-opacity));
 }
 
 .hover\:text-primary:hover {
@@ -2233,7 +2233,7 @@ a {
 
 .group:hover .group-hover\:text-orange {
   --tw-text-opacity: 1;
-  color: rgb(255 147 48/var(--tw-text-opacity));
+  color: rgb(252 212 102/var(--tw-text-opacity));
 }
 
 @keyframes moveUp {
