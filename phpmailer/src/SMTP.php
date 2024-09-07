@@ -142,7 +142,7 @@ class SMTP
      * level output is used:
      *
      * ```php
-     * $mail->Debugoutput = new myPsr3Logger;
+     * $mail->Debugoutput = new OurPsr3Logger;
      * ```
      *
      * @var string|callable|\Psr\Log\LoggerInterface

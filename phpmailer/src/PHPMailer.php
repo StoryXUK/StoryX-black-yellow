@@ -418,7 +418,7 @@ class PHPMailer
      * level output is used:
      *
      * ```php
-     * $mail->Debugoutput = new myPsr3Logger;
+     * $mail->Debugoutput = new OurPsr3Logger;
      * ```
      *
      * @see SMTP::$Debugoutput
@@ -3749,7 +3749,7 @@ class PHPMailer
      * These differ from 'regular' attachments in that they are intended to be
      * displayed inline with the message, not just attached for download.
      * This is used in HTML messages that embed the images
-     * the HTML refers to using the `$cid` value in `img` tags, for example `<img src="cid:mylogo">`.
+     * the HTML refers to using the `$cid` value in `img` tags, for example `<img src="cid:Ourlogo">`.
      * Never use a user-supplied path to a file!
      *
      * @param string $path        Path to the attachment
@@ -4372,7 +4372,7 @@ class PHPMailer
      * $plain = $mail->html2text($html);
      * //Use your own custom converter
      * $plain = $mail->html2text($html, function($html) {
-     *     $converter = new MyHtml2text($html);
+     *     $converter = new OurHtml2text($html);
      *     return $converter->get_text();
      * });
      * ```
