@@ -1,0 +1,16 @@
+# robots.txt for storyx.co.uk
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Allow: /wp-admin/admin-ajax.php
+
+# Block specific files (example files)
+Disallow: /private-info.php
+Disallow: /secret-page.html
+
+# Sitemap location
+Sitemap: https://storyx.co.uk/sitemap.xml
