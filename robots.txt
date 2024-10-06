@@ -1,4 +1,4 @@
-# robots.txt for storyx.co.uk
+# robots.txt for story-x.co.uk
 
 User-agent: *
 Disallow: /wp-admin/
@@ -13,4 +13,4 @@ Disallow: /private-info.php
 Disallow: /secret-page.html
 
 # Sitemap location
-Sitemap: https://storyx.co.uk/sitemap.xml
+Sitemap: https://story-x.co.uk/sitemap.xml
