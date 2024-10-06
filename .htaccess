@@ -22,3 +22,5 @@ RewriteRule ^ %{REQUEST_URI}.html [L]
 # Specific 301 Redirects (if needed, redirect old URLs to new ones)
 Redirect 301 /old-page https://story-x.co.uk/new-page
 Redirect 301 /another-old-page https://story-x.co.uk/another-new-page
+
+ErrorDocument 404 /404.html
