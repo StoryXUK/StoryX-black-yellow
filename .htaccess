@@ -20,7 +20,13 @@ RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^ %{REQUEST_URI}.html [L]
 
 # Specific 301 Redirects (if needed, redirect old URLs to new ones)
-Redirect 301 /old-page https://story-x.co.uk/new-page
-Redirect 301 /another-old-page https://story-x.co.uk/another-new-page
+Redirect 301 /case-studies/follador-prosecco https://story-x.co.uk/follador
+Redirect 301 /case-studies/index https://story-x.co.uk/projects
+Redirect 301 /case-studies/change-rebellion https://story-x.co.uk/change_rebellion
+Redirect 301 /case-studies/nila-recruitment https://story-x.co.uk/nila
+Redirect 301 /seo-services https://story-x.co.uk/seo
+Redirect 301 /ui-ux-design https://story-x.co.uk/ui-ux
+
+
 
 ErrorDocument 404 /404.html
