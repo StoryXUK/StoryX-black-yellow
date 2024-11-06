@@ -1615,6 +1615,11 @@ video {
   color: rgb(204, 163, 0/var(--tw-text-opacity));
 }
 
+.text-grey {
+  --tw-text-opacity: 1;
+  color: rgb(211, 211, 211/var(--tw-text-opacity));
+}
+
 .text-primary {
   --tw-text-opacity: 1;
   color: rgb(204, 163, 0/var(--tw-text-opacity));
@@ -2237,7 +2242,12 @@ a {
 
 .group:hover .group-hover\:text-orange {
   --tw-text-opacity: 1;
-  color: rgb(204, 163, 0/var(--tw-text-opacity));
+  color: rgb(211, 211, 211/var(--tw-text-opacity));
+}
+
+.group:hover .group-hover\:text-grey {
+  --tw-text-opacity: 1;
+  color: rgb(211, 211, 211/var(--tw-text-opacity));
 }
 
 @keyframes moveUp {
