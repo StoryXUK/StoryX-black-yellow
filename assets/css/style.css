@@ -1224,7 +1224,7 @@ video {
 
 .bg-primary {
   --tw-bg-opacity: 1;
-  background-color: rgb(252 212 102/var(--tw-bg-opacity));
+  background-color: rgb(204, 163, 0/var(--tw-bg-opacity));
 }
 
 .bg-secondary {
@@ -1612,12 +1612,12 @@ video {
 
 .text-orange {
   --tw-text-opacity: 1;
-  color: rgb(252 212 102/var(--tw-text-opacity));
+  color: rgb(204, 163, 0/var(--tw-text-opacity));
 }
 
 .text-primary {
   --tw-text-opacity: 1;
-  color: rgb(252 212 102/var(--tw-text-opacity));
+  color: rgb(204, 163, 0/var(--tw-text-opacity));
 }
 
 .text-secondary {
@@ -2090,13 +2090,13 @@ a {
 .before\:bg-orange::before {
   content: var(--tw-content);
   --tw-bg-opacity: 1;
-  background-color: rgb(252 212 102/var(--tw-bg-opacity));
+  background-color: rgb(204, 163, 0/var(--tw-bg-opacity));
 }
 
 .before\:bg-primary::before {
   content: var(--tw-content);
   --tw-bg-opacity: 1;
-  background-color: rgb(252 212 102/var(--tw-bg-opacity));
+  background-color: rgb(204, 163, 0/var(--tw-bg-opacity));
 }
 
 .before\:bg-white::before {
@@ -2143,7 +2143,7 @@ a {
 
 .hover\:bg-primary:hover {
   --tw-bg-opacity: 1;
-  background-color: rgb(252 212 102/var(--tw-bg-opacity));
+  background-color: rgb(204, 163, 0/var(--tw-bg-opacity));
 }
 
 .hover\:bg-white:hover {
@@ -2153,12 +2153,12 @@ a {
 
 .hover\:text-orange:hover {
   --tw-text-opacity: 1;
-  color: rgb(252 212 102/var(--tw-text-opacity));
+  color: rgb(204, 163, 0/var(--tw-text-opacity));
 }
 
 .hover\:text-primary:hover {
   --tw-text-opacity: 1;
-  color: rgb(252 212 102/var(--tw-text-opacity));
+  color: rgb(204, 163, 0/var(--tw-text-opacity));
 }
 
 .hover\:text-white:hover {
@@ -2175,7 +2175,7 @@ a {
 .hover\:before\:bg-primary:hover::before {
   content: var(--tw-content);
   --tw-bg-opacity: 1;
-  background-color: rgb(252 212 102/var(--tw-bg-opacity));
+  background-color: rgb(204, 163, 0/var(--tw-bg-opacity));
 }
 
 .hover\:before\:opacity-80:hover::before {
@@ -2237,7 +2237,7 @@ a {
 
 .group:hover .group-hover\:text-orange {
   --tw-text-opacity: 1;
-  color: rgb(252 212 102/var(--tw-text-opacity));
+  color: rgb(204, 163, 0/var(--tw-text-opacity));
 }
 
 @keyframes moveUp {
