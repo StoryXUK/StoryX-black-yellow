@@ -1612,7 +1612,7 @@ video {
 
 .text-orange {
   --tw-text-opacity: 1;
-  color: rgb(252 212 102/var(--tw-text-opacity));
+  color: rgb(30, 99, 153/var(--tw-text-opacity));
 }
 
 .text-primary {
@@ -2743,10 +2743,17 @@ a {
   grid-template-columns: repeat(3, 1fr);
   gap: 10px; /* Adjust the gap between images if needed */
 }
+.grid-item {
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out;
+}
 .grid-item img {
   width: 100%;
   height: auto;
   aspect-ratio: 1 / 1; /* Ensures the images are square */
   object-fit: cover; /* Makes sure the images fill the square */
+  transition: transform 0.3s ease-in-out;
 }
-
+.grid-item:hover img {
+  transform: scale(1.05); /* Slightly enlarge the image on hover */
+}
