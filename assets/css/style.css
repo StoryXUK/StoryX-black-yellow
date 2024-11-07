@@ -2737,3 +2737,16 @@ a {
     padding-left: 17%;
   }
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px; /* Adjust the gap between images if needed */
+}
+.grid-item img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1; /* Ensures the images are square */
+  object-fit: cover; /* Makes sure the images fill the square */
+}
+
