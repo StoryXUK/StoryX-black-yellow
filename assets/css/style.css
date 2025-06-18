@@ -2748,7 +2748,7 @@ a {
   transition: transform 0.3s ease-in-out;
 }
 .grid-item img {
-  width: 100%;
+  width: 80%;
   height: auto;
   aspect-ratio: 1 / 1; /* Ensures the images are square */
   object-fit: cover; /* Makes sure the images fill the square */
